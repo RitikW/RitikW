@@ -12,7 +12,7 @@ class RitikW():
     
   def __init__(self):
     self.name = "Ritik Walgaonkar";
-    self.background = "CS graduate with 3 yrs of Experience in Unity Game Engine";
+    self.background = "CS graduate with 3 yrs of Experience in Unity";
     self.experience = [AR, VR, Simulations, Hyper Casual, Multiplayer, First Person Shooter, Puzzle];
     self.location = "Nagpur, India";
     self.hobby = "Playing games to release stress that give me more stress";
@@ -52,7 +52,7 @@ if __name__ == '__main__':
 
 # Fun Fact : 
 - I’m probably working on Unity while you're reading this 👨‍💻
-- Learning everything about a game and how it was made 🎮
+- Learning everything about games and how it were made 🎮
 - Finding a cat to get bored with 🐾
 - "CODE IS LIKE HUMOR . IF YOU HAVE TO EXPLAIN IT, IT’S BAD." - SunTzu⚔️
 - Hmm... Loading...
