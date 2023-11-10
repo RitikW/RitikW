@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hello%2C+Welcome+to+my+Github+Page.;I+am+Writik.;"></a>
 </p>
 
-
+---
 ##  About Me :
 
 ```python
@@ -25,6 +25,7 @@ if __name__ == '__main__':
     me = RitikW()
 
 ```
+---
 <img align="right" alt="GIF" height="125px" width="150px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -48,7 +49,10 @@ if __name__ == '__main__':
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
+---
+
 <img align="right" alt="GIF" height="125px" width="150px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" />
+
 
 # Fun Fact : 
 - I’m probably working on Unity while you're reading this 👨‍💻
