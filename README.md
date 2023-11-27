@@ -58,6 +58,6 @@ if __name__ == '__main__':
 - I’m probably working on Unity while you're reading this 👨‍💻
 - Learning everything about games and how it were made 🎮
 - Finding a cat to get bored with 🐾
-- "CODE IS LIKE HUMOR . IF YOU HAVE TO EXPLAIN IT, IT’S BAD." - SunTzu⚔️
+- "CODE IS LIKE HUMOR . IF YOU HAVE TO EXPLAIN IT, IT’S BAD."📖
 - Hmm... Loading...
 
