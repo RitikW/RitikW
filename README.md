@@ -54,7 +54,7 @@ if __name__ == '__main__':
 <img align="right" alt="GIF" height="125px" width="150px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif" />
 
 
-# Fun Fact : 
+# Fun Facts : 
 - I’m probably working on Unity while you're reading this 👨‍💻
 - Learning everything about games and how it were made 🎮
 - Finding a cat to get bored with 🐾
