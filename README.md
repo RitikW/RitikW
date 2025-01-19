@@ -12,11 +12,11 @@ class RitikW():
     
   def __init__(self):
     self.name = "Ritik Walgaonkar";
-    self.background = "CS graduate with 3+ yrs of Experience in Unity";
-    self.experience = [AR, VR, Simulations, Hyper Casual, Multiplayer, First Person Shooter, Puzzle];
+    self.background = "CS graduate with over 4 years of Experience in Unity";
+    self.experience = [AR, VR, MMO, Hyper Casual, Multiplayer, First Person Shooter, Puzzle, Simulations];
     self.location = "Nagpur, India";
-    self.hobby = "Playing games to release stress that give me more stress";
-    self.web = "To lazy to make one";
+    self.hobby = "playing games to release stress that give me more stress";
+    self.web = "to lazy to make one";
   
   def __str__(self):
     return self.name
