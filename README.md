@@ -12,8 +12,8 @@ class RitikW():
     
   def __init__(self):
     self.name = "Ritik Walgaonkar";
-    self.background = "CS graduate with over 4 years of Experience in Unity";
-    self.experience = [AR, VR, MMO, Hyper Casual, Multiplayer, First Person Shooter, Puzzle, Simulations];
+    self.background = "CS graduate with over 5 years of Experience in Unity";
+    self.experience = [AR, VR, MMO, Hyper Casual, Real Money, First Person Shooter, Puzzle, Simulations];
     self.location = "Nagpur, India";
     self.hobby = "playing games to release stress that give me more stress";
     self.web = "to lazy to make one";
